@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Travels-app/static/css/main.89c597de.css",
+    "main.js": "/Travels-app/static/js/main.8a47d1bf.js",
+    "static/js/787.888f18b2.chunk.js": "/Travels-app/static/js/787.888f18b2.chunk.js",
+    "index.html": "/Travels-app/index.html",
+    "main.89c597de.css.map": "/Travels-app/static/css/main.89c597de.css.map",
+    "main.8a47d1bf.js.map": "/Travels-app/static/js/main.8a47d1bf.js.map",
+    "787.888f18b2.chunk.js.map": "/Travels-app/static/js/787.888f18b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89c597de.css",
+    "static/js/main.8a47d1bf.js"
+  ]
+}
